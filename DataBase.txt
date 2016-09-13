@@ -1,0 +1,16 @@
+--------------------
+
+------------------ 
+Nombre:   PEDRO DAMIAN
+ Edad: 13--------------------
+
+Su SuperHeroe es: SUPERMAN
+Las caricaturas son: 
+
+0.- NARUTO
+1.- DRAGON BALL
+2.- FERB
+3.- LOL
+
+--------------------
+
